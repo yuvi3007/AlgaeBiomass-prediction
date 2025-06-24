@@ -33,9 +33,7 @@ This project aims to build a regression pipeline that can **predict biomass conc
 
 | Metric   | Linear Regression | Random Forest |
 |----------|-------------------|---------------|
-| R² Score | 0.78              | 0.89          |
-| MAE      | 1.34              | 0.72          |
-| RMSE     | 2.01              | 1.12          |
+| R² Score | 0.94              | 0.98          |
 
 🎯 **Random Forest Regressor outperformed Linear Regression** in all metrics.
 
